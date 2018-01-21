@@ -3,23 +3,23 @@ domain: "http://songroger.win"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://tienlatien252.github.io/" # the base hostname & protocol for your site
 permalink: /:title/
-avatar: http://7xof48.com1.z0.glb.clouddn.com/avatar.jpg
-about: http://7xof48.com1.z0.glb.clouddn.com/about.jpg
+avatar: /head_picture.jpg
+about: /about_picture.jpg
 favicon: http://7xof48.com1.z0.glb.clouddn.com/favicon.png
 basecss: 
 # Theme specific configuration
-title: songroger
+title: Vo's Blog
 description: >
-  Hi there, My name is Luozhan.Song, usually I use "songroger" as my ID everywhere.
-  I was born and raised in Hunan China. 
-  I'm really fond of beautiful design, drawing etc.
+  Hi there, My name is An Vo. I was born and raised in Vietnam. I moved to
+  the U.S in 2013. Now, I'm studing computer science at University of Texas
+  at Austin.
 
 # Contact and social media links
-twitter_username: songrogero
-github_username: songroger
-facebook_username: song.roger.1
-instagram_username: songroger198
-linkedin_username: songroger
+twitter_username: AnDuyThaiVo
+github_username: tienaltien252
+facebook_username: thaiancsut
+instagram_username: anduythaivo
+linkedin_username: anvo
 
 exclude: ['node_modules', 'gulpfile.js', 'package.json']
 
